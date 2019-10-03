@@ -33,7 +33,7 @@ github_username: alt-ernative
 markdown: kramdown
 logo: false
 paginate: 15
-baseurl: /
+baseurl: "/"
 domain_name: 'https://alt-ernative.gihub.io'
 google_analytics: 'UA-149388064-1'
 # Build settings
