@@ -61,5 +61,5 @@ plugins:
 #   - vendor/ruby/
 
 # Details for the RSS feed generator
-url: 'hyeonjupark'
+url: 'https://alt-ernative.gihub.io'
 author: 'hyeonjupark'
