@@ -34,8 +34,8 @@ markdown: kramdown
 logo: false
 paginate: 15
 baseurl: /
-domain_name: 'http://localhost:4000'
-google_analytics: 'UA-XXXXXXXX-X'
+domain_name: 'https://alt-ernative.gihub.io'
+google_analytics: 'UA-149388064-1'
 # Build settings
 # theme: minima
 plugins:
